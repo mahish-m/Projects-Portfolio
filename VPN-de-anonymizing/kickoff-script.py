@@ -1,1 +1,1 @@
-file
+print("hi")

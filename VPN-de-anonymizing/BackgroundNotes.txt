@@ -1,0 +1,9 @@
+VPN de anonymizing by changing out a VPN designated IP on the DHCP server assignment
+
+vpn dhcp relay rewrite proof of concept
+
+vpn option 21
+
+https://krebsonsecurity.com/2024/05/why-your-vpn-may-not-be-as-secure-as-it-claims/
+https://www.leviathansecurity.com/blog/tunnelvision
+
